@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/fastdfs/fastdfs.iml" filepath="$PROJECT_DIR$/fastdfs/fastdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fastdfs_main.iml" filepath="$PROJECT_DIR$/.idea/modules/fastdfs_main.iml" group="fastdfs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fastdfs_test.iml" filepath="$PROJECT_DIR$/.idea/modules/fastdfs_test.iml" group="fastdfs" />
       <module fileurl="file://$PROJECT_DIR$/spring-data-redis-test/spring-data-redis-test.iml" filepath="$PROJECT_DIR$/spring-data-redis-test/spring-data-redis-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-data-redis-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-data-redis-test_main.iml" group="spring-data-redis-test" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-data-redis-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-data-redis-test_test.iml" group="spring-data-redis-test" />

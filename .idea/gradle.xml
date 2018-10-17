@@ -16,6 +16,17 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/fastdfs" />
+        <option name="gradleHome" value="D:/javaDevlop/gradle-4.3.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/fastdfs" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/spring-data-redis-test" />
         <option name="gradleHome" value="D:/javaDevlop/gradle-4.3.1" />
         <option name="modules">
