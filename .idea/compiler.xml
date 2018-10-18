@@ -6,6 +6,8 @@
       <module name="fastdfs_test" target="1.8" />
       <module name="spring-data-redis-test_main" target="1.8" />
       <module name="spring-data-redis-test_test" target="1.8" />
+      <module name="springboot-quartz_main" target="1.8" />
+      <module name="springboot-quartz_test" target="1.8" />
       <module name="springboot-test_main" target="1.8" />
       <module name="springboot-test_test" target="1.8" />
     </bytecodeTargetLevel>

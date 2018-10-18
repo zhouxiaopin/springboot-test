@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/spring-data-redis-test/spring-data-redis-test.iml" filepath="$PROJECT_DIR$/spring-data-redis-test/spring-data-redis-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-data-redis-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-data-redis-test_main.iml" group="spring-data-redis-test" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-data-redis-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-data-redis-test_test.iml" group="spring-data-redis-test" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-quartz/springboot-quartz.iml" filepath="$PROJECT_DIR$/springboot-quartz/springboot-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-quartz_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-quartz_main.iml" group="springboot-quartz" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-quartz_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-quartz_test.iml" group="springboot-quartz" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-test.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-test_main.iml" group="springboot-test" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-test_test.iml" group="springboot-test" />
